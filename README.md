@@ -1,2 +1,4 @@
 # cofee_webpage
-types of coffee prepared in this coffeeshop
+
+Hello this is my first website development project
+This is to test and prepare my skills
